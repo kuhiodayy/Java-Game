@@ -1,0 +1,8 @@
+<sheet>
+	<sprite name="nyan-cat1.png" x="0" y="0" width="400" height="280" />
+	<sprite name="nyan-cat2.png" x="400" y="0" width="400" height="280" />
+	<sprite name="nyan-cat3.png" x="800" y="0" width="400" height="280" />
+	<sprite name="nyan-cat4.png" x="1200" y="0" width="400" height="280" />
+	<sprite name="nyan-cat5.png" x="1600" y="0" width="400" height="280" />
+	<sprite name="nyan-cat6.png" x="0" y="280" width="400" height="280" />
+</sheet>
